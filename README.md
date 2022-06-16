@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Nils 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;"https://cdn.discordapp.com/avatars/776757761701838858/6afe1b3dedf252f5c742b5e24555fe12/favicon.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://cdn.discordapp.com/attachments/971049189377179718/976572778637590588/favicon.png">  
 
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Nils
 > This is the place where I opensource stuff and break things :rofl:<br>
