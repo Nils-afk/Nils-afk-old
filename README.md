@@ -16,7 +16,7 @@
 ---
 
 <a href="https://discord.com/users/776757761701838858">
- <img src="https://lanyard.cnrad.dev/api/776757761701838858?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+ <img src="https://api.opinsel.de/api/776757761701838858?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 <p align="left">
