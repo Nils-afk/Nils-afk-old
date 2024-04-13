@@ -6,13 +6,6 @@
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Nils
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/916638709544276009?label=Online&logo=Discord)](https://discord.gg/5BywzNSUCr)
-[![GitHub followers](https://img.shields.io/github/followers/Nils-afk?style=social)](https://github.com/Nils-afk?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/GamerArmyL?style=social)](https://twitter.com/GamerArmyL)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgamerarmy-bot-list.ml)](https://gamerarmy-bot-list.ml)
-[![Website](https://komarev.com/ghpvc/?username=JanjyTapYT&style=flat-square&color=333333&label=Views)](https://gamerarmy-bot-list.ml)
-<br><br><br>
-
 ---
 
 <a href="https://discord.com/users/776757761701838858">
