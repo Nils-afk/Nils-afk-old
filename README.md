@@ -19,33 +19,6 @@
  <img src="https://api.opinsel.de/api/776757761701838858?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-<p align="left">
- <a href="https://www.instagram.com/login/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/instagram.svg" alt="Instagram" width="32" align="center"/>
- </a>
- <a href="https://twitter.com/GamerArmyL" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/twitter.svg" alt="Twitter" width="32" align="center"/>
- </a>
- <a href="https://discord.com/users/679407120743137300" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/discord.svg" alt="Discord" width="32" align="center"/>
- </a>
- <a href="mailto:info@gamerarmy-bot-list.ml" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/gmail.svg" alt="Email" width="32" align="center"/>
- </a>
- <a href="https://www.youtube.com/channel/UCZ-UrvcsTYxG2Xi3jh09Mew" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/youtube.svg" alt="YouTube" width="32" align="center"/>
- </a>
- <a href="https://steamcommunity.com/id/nilsthepro1/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/steam.svg" alt="Steam" width="32" align="center"/>
- </a>
- <a href="https://open.spotify.com/user/313f6kzmredixvc4ymhcscqcrpsq" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/spotify.svg" alt="Spotify" width="32" align="center"/>
- </a>
- <!--<a href="https://wakatime.com/@Majonezexe" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/wakatime.svg" alt="Wakatime" width="32" align="center"/>
- </a>-->
-</p>
-
 ### 💪 Experience & History
 I'm coding for over 2 years. I started my journey in late 2020.<br>
 My first project was a multiple discord bot.<br>
